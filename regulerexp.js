@@ -39,3 +39,4 @@ console.log(result4+ ' ashu yarr');
 // 5. replace()-->  this replace the 
 let result5=s.replace(reg,'Ankit');
 console.log(result5)
+console.log('To checking update in the live save in git file or not');
